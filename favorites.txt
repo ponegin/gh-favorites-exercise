@@ -1,4 +1,10 @@
- Peppermint Ice Cream
+<<<<<<< HEAD
+Foods:
+Peppermint Ice Cream
 Soft Pretzels
 Celery
-
+Movies:
+Amadeus
+The Fifth Element
+Captain Fantastic
+>>>>>>> movies
